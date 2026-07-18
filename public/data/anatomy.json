@@ -1,0 +1,90 @@
+[
+  {
+    "id": "boanat-001",
+    "imageRef": "boanat-001_11_p10_1.png",
+    "answer": "5' cap",
+    "brick": "The Central Dogma: DNA to RNA to Proteins",
+    "category": "Histology & Cell Biology",
+    "explanation": "The 5' cap (7-methylguanosine linked 5'-to-5') stabilizes the transcript against exonucleases and is recognized by initiation factors to promote translation."
+  },
+  {
+    "id": "boanat-002",
+    "imageRef": "boanat-002_11_p12_1.png",
+    "answer": "Spliceosome",
+    "brick": "The Central Dogma: DNA to RNA to Proteins",
+    "category": "Histology & Cell Biology",
+    "explanation": "The spliceosome (built from snRNPs) cleaves at the 5' and 3' splice sites, excises the intron as a lariat, and ligates the two exons, an essential step in mRNA maturation."
+  },
+  {
+    "id": "boanat-003",
+    "imageRef": "boanat-003_11_p13_1.png",
+    "answer": "Alternative splicing",
+    "brick": "The Central Dogma: DNA to RNA to Proteins",
+    "category": "Histology & Cell Biology",
+    "explanation": "Alternative splicing joins different combinations of exons from the same primary transcript, so one gene can encode several protein isoforms, greatly expanding proteome diversity."
+  },
+  {
+    "id": "boanat-004",
+    "imageRef": "boanat-004_11_p17_1.png",
+    "answer": "Ribosome",
+    "brick": "The Central Dogma: DNA to RNA to Proteins",
+    "category": "Histology & Cell Biology",
+    "explanation": "Incoming aminoacyl-tRNAs enter the A site; the growing peptide is held at the P site and transferred to the A-site amino acid, after which deacylated tRNA leaves through the E site."
+  },
+  {
+    "id": "boanat-005",
+    "imageRef": "boanat-005_11_p19_1.png",
+    "answer": "tRNA",
+    "brick": "The Central Dogma: DNA to RNA to Proteins",
+    "category": "Histology & Cell Biology",
+    "explanation": "The cloverleaf molecule is a tRNA. When 'charged,' an amino acid is esterified to its 3' acceptor end; its anticodon then reads the complementary mRNA codon (with wobble at the third position), delivering the correct amino acid to the ribosomal A site during translation."
+  },
+  {
+    "id": "boanat-006",
+    "imageRef": "boanat-006_13_p2_1.png",
+    "answer": "Amino acid",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+    "category": "Histology & Cell Biology",
+    "explanation": "The central (alpha) carbon bonded to an amino group, a carboxyl group, a hydrogen, and a variable R side chain is the defining structure of an amino acid. The R group distinguishes the 20 standard amino acids; the charged groups reflect the zwitterionic form at physiologic pH."
+  },
+  {
+    "id": "boanat-007",
+    "imageRef": "boanat-007_13_p3_1.png",
+    "answer": "Peptide bond",
+    "brick": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+    "category": "Histology & Cell Biology",
+    "explanation": "The peptide bond forms by condensation: the carboxyl group of one amino acid joins the amino group of the next, releasing one water molecule (dehydration synthesis). The reverse, hydrolysis, breaks the bond by adding water."
+  },
+  {
+    "id": "boanat-008",
+    "imageRef": "boanat-008_22_p2_1.png",
+    "answer": "Fatty acid",
+    "brick": "BOOM: Lipids and Lipid Metabolism Introduction",
+    "category": "Histology & Cell Biology",
+    "explanation": "A fatty acid has a hydrophobic tail and a hydrophilic (charged) carboxylate head, making it amphipathic. This property lets fatty acids and their derivatives form micelles and membrane bilayers."
+  },
+  {
+    "id": "boanat-009",
+    "imageRef": "boanat-009_23_p7_1.png",
+    "answer": "Ketone bodies",
+    "brick": "BOOM: Lipids and Lipid Metabolism Introduction",
+    "category": "Histology & Cell Biology",
+    "explanation": "The three ketone bodies are acetoacetate, acetone, and beta-hydroxybutyrate. Beta-hydroxybutyrate carries a hydroxyl (not a carbonyl/ketone) group, so it is chemically not a ketone, even though it is counted as a ketone body."
+  },
+  {
+    "id": "boanat-010",
+    "imageRef": "boanat-010_35_p6_1.png",
+    "answer": "Ringed sideroblast",
+    "brick": "Porphyrins and Iron Homeostasis",
+    "category": "Histology & Cell Biology",
+    "explanation": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia."
+  },
+  {
+    "id": "boanat-011",
+    "imageRef": "boanat-011_40_p8_1.png",
+    "answer": "Mitosis",
+    "brick": "Chromosomes",
+    "category": "Histology & Cell Biology",
+    "explanation": "Mitosis produces two daughter cells that are diploid (2n) and genetically identical to the parent, in contrast to meiosis which yields four genetically unique haploid cells."
+  }
+]
